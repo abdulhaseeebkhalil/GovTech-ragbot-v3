@@ -1,0 +1,48 @@
+# Web Framework
+fastapi>=0.104.0
+uvicorn[standard]>=0.24.0
+python-multipart>=0.0.6
+
+# AI & ML
+google-generativeai>=0.3.0
+sentence-transformers>=2.2.0
+torch>=2.0.0
+transformers>=4.30.0
+spacy>=3.7.0
+
+# Vector Database
+qdrant-client>=1.6.0
+
+# PDF Processing
+PyPDF2>=3.0.0
+pdfplumber>=0.10.0
+pymupdf>=1.23.0
+
+# Database
+mysql-connector-python>=8.2.0
+
+# NLP & Text Processing
+langchain>=0.0.300
+langchain-text-splitters>=0.0.1
+rank-bm25>=0.2.2
+docx2txt>=0.8
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Document Generation
+reportlab>=4.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+pydantic>=2.0.0
+
+# Testing (optional)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+
+# Web Search (optional - if using web search service)
+requests>=2.31.0
+beautifulsoup4>=4.12.0

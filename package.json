@@ -1,0 +1,7 @@
+{
+  "overrides": {
+    "js-yaml": "4.1.0",
+    "undici": "6.27.0",
+    "minimatch": "9.0.6"
+  }
+}
